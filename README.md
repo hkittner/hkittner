@@ -4,7 +4,7 @@ I am a master's student in Earth Science at UCSB.
 
 - 😄 Pronouns: she/her
 - 🔭 I study marine microbes and their interactions with anthropogenic pollutants.
-- - 📫 How to reach me: [hkittner@ucsb.edu](mailto:hkittner@ucsb.edu)
+- 📫 How to reach me: [hkittner@ucsb.edu](mailto:hkittner@ucsb.edu)
 
 <!--
 **hkittner/hkittner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
